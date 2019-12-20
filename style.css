@@ -1,5 +1,5 @@
 @body
-import url( 'https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
  background-color:#ffffff;
  color:#ffffff;
  margin: 0;
@@ -10,15 +10,15 @@ import url( 'https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap')
 h1{
   font-family: 'Josefin Sans', sans-serif;
   /* margin-top: 40px */
-  margin-left: 50;
+  margin-left: 70;
   }
   h2{
   font-family: 'Josefin Sans', sans-serif;
   /* margin-top: 50px */
-  margin-left: 80;
+  margin-left: 70;
   }
   ol{
   font-family: 'Josefin Sans', sans-serif;
   /* margin-top: 60px */
-  margin-left: 120;
+  margin-left: 70;
   }
